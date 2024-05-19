@@ -1,0 +1,25 @@
+.container {
+  margin: auto;
+}
+
+.incoming {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 2px solid black;
+  padding: 5%;
+  margin-top: 1%;
+}
+
+.incoming > * {
+  width: 20%;
+}
+
+.subject {
+  display:inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 15ch;
+
+}
