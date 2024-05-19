@@ -1,0 +1,1 @@
+.container{margin:auto}.incoming{border:2px solid #000;display:flex;flex-direction:row;justify-content:space-between;margin-top:1%;padding:5%}.incoming>*{width:20%}.subject{display:inline-block;max-width:15ch;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
